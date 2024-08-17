@@ -38,7 +38,7 @@ Follow these simple steps to get BeMusic up and running on your local machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/BeMusic.git
+git clone https://github.com/dhrubojitadhikari/BeMusic.git
 cd BeMusic
 ```
 
