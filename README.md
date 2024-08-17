@@ -23,7 +23,7 @@ Welcome to **BeMusic**, a beautiful and feature-rich music streaming app designe
 ## Installation 🛠️
 
 
-[![Download on MediaFire](https://www.mediafire.com/file/retvbg1ampa5ajx/bemusic.apk/file)
+Download on MediaFire(https://www.mediafire.com/file/retvbg1ampa5ajx/bemusic.apk/file)
 
 OR
 
