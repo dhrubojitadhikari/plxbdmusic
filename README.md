@@ -23,7 +23,7 @@ Welcome to **BeMusic**, a beautiful and feature-rich music streaming app designe
 ## Installation 🛠️
 
 
-[![Download on Google Play](https://worker-shy-disk-e64e.dhrubojitgod2054.workers.dev/download.aspx?file=ZdtFYXHzjjAmGWsBTMszqpwt9VoOjrvjdOwITkEdffyCtTyeudA%2BV78JTOtKT4Vy&expiry=4KiHfdqvDkHp27jxBO5IpA%3D%3D&mac=0b322a072941a9b3d85d28de76248c7c427033cb51a590547b6319ca0e874879)
+[![Download on MediaFire](https://www.mediafire.com/file/retvbg1ampa5ajx/bemusic.apk/file)
 
 OR
 
