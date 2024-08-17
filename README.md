@@ -22,8 +22,12 @@ Welcome to **BeMusic**, a beautiful and feature-rich music streaming app designe
 
 ## Installation 🛠️
 
+Visit Website: https://music.plxbd.com
 
-Download on MediaFire(https://www.mediafire.com/file/retvbg1ampa5ajx/bemusic.apk/file)
+OR
+
+
+Apk Download on MediaFire: https://www.mediafire.com/file/retvbg1ampa5ajx/bemusic.apk/file
 
 OR
 
